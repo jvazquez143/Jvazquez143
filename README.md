@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jesse, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jesse, an <a href=https://www.linkedin.com/in/jesse-corona-vazquez-1aab41209/>IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -15,5 +15,5 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src=https://www.linkedin.com/in/jesse-corona-vazquez-1aab41209/ />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src=https://www.instagram.com/j3zz3_143/?hl=en />][instagram]
 
-[instagram]: [https://www.instagram.com/Josh](https://www.instagram.com/j3zz3_143/?hl=en)
+[instagram]: https://www.instagram.com/j3zz3_143/?hl=en)
 [linkedin]: https://www.linkedin.com/in/jesse-corona-vazquez-1aab41209/
